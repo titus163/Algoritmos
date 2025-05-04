@@ -8,13 +8,6 @@ if you are programming in Java or C#, the function signature is int nUpCount(int
 For example, if n=5, the 5-upcount of the array {2,3,1,-6,8,-3,-1,2} is 3.
 
 
-| n                       | next perfect square                                          |
-|-|-|
-| 6                       | 9                                                            |
-| 36                      | 49                                                           |
-| 0                       | 1                                                            |
-| -5                      | 0                                                            |
-
 | i    | a[i] | partial sum  | upcount | comment                         |
 |-|-|-|-|-|
 | 0    | 2    | 2            |         |                                 |
